@@ -1,0 +1,4 @@
+---
+installation_os_user: vagrant
+installation_os_group: vagrant
+webvr_dir: '/home/{{ installation_os_user }}/www/vr'
